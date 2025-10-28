@@ -58,7 +58,11 @@ print('connection closed')
 ```
 ## OUPUT
 Refer to the following image to view the output of the program.
-<img width="1305" height="192" alt="o1" src="https://github.com/user-attachments/assets/a545eefe-1391-42fb-bc43-c5dfe6277360" />    <img width="1277" height="107" alt="o2" src="https://github.com/user-attachments/assets/98e03c01-e5f4-40e3-a7b6-c9d77a6f2ceb" />
+<img width="1305" height="192" alt="o1" src="https://github.com/user-attachments/assets/a545eefe-1391-42fb-bc43-c5dfe6277360" />  
+
+
+
+<img width="1277" height="107" alt="o2" src="https://github.com/user-attachments/assets/98e03c01-e5f4-40e3-a7b6-c9d77a6f2ceb" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
